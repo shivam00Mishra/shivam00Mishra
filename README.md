@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam00Mishra
+- 👋 Hi, I’m @shivam Mishra
 - 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
